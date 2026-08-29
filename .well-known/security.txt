@@ -1,4 +1,4 @@
-Contact: mailto:htvoeylife@gmail.com
+Contact: mailto:h1443n@internet.ru
 Preferred-Languages: ru, en
 Canonical: https://codexdev.ru/.well-known/security.txt
 Expires: 2027-08-09T00:00:00.000Z

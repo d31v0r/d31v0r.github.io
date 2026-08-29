@@ -1,15 +1,15 @@
-# humoridze
+# h1443n
 
-> Ivan Vorobyov (humoridze) — backend developer from Voronezh, Russia.
+> Ivan Vorobyov (h1443n) — backend developer from Voronezh, Russia.
 
 ## Site
 - https://codexdev.ru/
 - https://codexdev.ru/en/
 
 ## Contact
-- Email: htvoeylife@gmail.com
+- Email: h1443n@internet.ru
 - Telegram: https://t.me/legendagachimuchi
-- GitHub: https://github.com/humoridze
+- GitHub: https://github.com/h1443n
 
 ## Stack
 PHP, Laravel, Java, PostgreSQL, Docker, Linux, JavaScript, Python, REST API, Redis, Git
