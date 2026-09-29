@@ -1,15 +1,16 @@
-# h1443n
+# d31v0r
 
-> Ivan Vorobyov (h1443n) — backend developer from Voronezh, Russia.
+> Ivan Vorobyov (d31v0r) — backend developer from Voronezh, Russia.
 
 ## Site
 - https://codexdev.ru/
 - https://codexdev.ru/en/
 
 ## Contact
-- Email: h1443n@internet.ru
+- Email: d31v0r@gmail.com
+- Email: d31v0r@mail.ru
 - Telegram: https://t.me/legendagachimuchi
-- GitHub: https://github.com/h1443n
+- GitHub: https://github.com/d31v0r
 
 ## Stack
 PHP, Laravel, Java, PostgreSQL, Docker, Linux, JavaScript, Python, REST API, Redis, Git

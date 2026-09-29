@@ -40,8 +40,8 @@ const translations = {
     "contact.text": "Пишите в Telegram или на почту.",
     "footer.name": "Иван Воробьёв",
     "footer.place": "Россия, Воронеж",
-    "meta.title": "h1443n — Иван Воробьёв | Backend-разработчик",
-    "meta.description": "Иван Воробьёв (h1443n) — backend-разработчик из Воронежа. PHP, Laravel, Java, PostgreSQL, Docker, REST API. 4 года опыта. Открыт к предложениям о работе.",
+    "meta.title": "d31v0r — Иван Воробьёв | Backend-разработчик",
+    "meta.description": "Иван Воробьёв (d31v0r) — backend-разработчик из Воронежа. PHP, Laravel, Java, PostgreSQL, Docker, REST API. 4 года опыта. Открыт к предложениям о работе.",
   },
   en: {
     "nav.about": "About",
@@ -84,8 +84,8 @@ const translations = {
     "contact.text": "Reach me on Telegram or by email.",
     "footer.name": "Ivan Vorobyov",
     "footer.place": "Russia, Voronezh",
-    "meta.title": "h1443n — Ivan Vorobyov | Backend developer",
-    "meta.description": "Ivan Vorobyov (h1443n) — backend developer from Voronezh. PHP, Laravel, Java, PostgreSQL, Docker, REST API. 4 years of experience. Open to work.",
+    "meta.title": "d31v0r — Ivan Vorobyov | Backend developer",
+    "meta.description": "Ivan Vorobyov (d31v0r) — backend developer from Voronezh. PHP, Laravel, Java, PostgreSQL, Docker, REST API. 4 years of experience. Open to work.",
   },
 };
 
@@ -128,7 +128,7 @@ function applyLanguage(lang) {
   }
   setMeta("og:locale", lang === "en" ? "en_US" : "ru_RU", "property");
 
-  localStorage.setItem("h1443n-lang", lang);
+  localStorage.setItem("d31v0r-lang", lang);
 }
 
 window.HumorI18n = { translations, applyLanguage };
